@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>CutPasteFiles</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Sat, 03 Jan 2026 17:28:47 +0100</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/sunnydays-llc/CutPasteFiles/releases/download/v0.1.0/CutPasteFiles-0.1.0.dmg" length="2108768" type="application/octet-stream" sparkle:edSignature="hhYoIOJcJTFT992DyvcL7JSKXSece38pSB1sJYZmLKLFVvaoag1j2lzYA2AIYXXgZnRtd6NwukZXOJ9T5PweCg=="/>
+        </item>
+    </channel>
+</rss>
