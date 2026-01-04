@@ -7,8 +7,8 @@
             <pubDate>Sat, 03 Jan 2026 17:28:47 +0100</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/sunnydays-llc/CutPasteFiles/releases/download/v0.1.0/CutPasteFiles-0.1.0.dmg" length="2108768" type="application/octet-stream" sparkle:edSignature="hhYoIOJcJTFT992DyvcL7JSKXSece38pSB1sJYZmLKLFVvaoag1j2lzYA2AIYXXgZnRtd6NwukZXOJ9T5PweCg=="/>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/sunnydays-llc/CutPasteFiles/releases/download/v0.1.0/CutPasteFiles-0.1.0.dmg" length="2113286" type="application/octet-stream" sparkle:edSignature="BJAYb+yakht85rL5Lfqub9nT9yRiVY9Z/ZY+OR/+OtDtvWo1Tl2oNac62aBotWHhqm6WJhhEEYX1WuezUu+OCw=="/>
         </item>
     </channel>
 </rss>
